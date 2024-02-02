@@ -6,8 +6,8 @@ const AboutPage = () => {
       <MetaTags title="About" description="About page" />
 
       <p className="font-light">
-        This site was created to demonstrate my mastery of Redwood: Look on my
-        works, ye mighty, and despair!
+        Hi this is Joey&apos;s Donut Blog. I am continuing my journey to become
+        <strong> the strongest </strong> web developer.
       </p>
     </>
   )
