@@ -6,12 +6,12 @@ export const standard = defineScenario({
         body: 'String',
         user: {
           create: {
-            id: 10,
-            name: 'Karenlmao',
-            email: 'bruh@lmao.org',
+            id: 8787,
+            name: 'Kawnlmao',
+            email: 'bruh@ao.org',
             hashedPassword:
-              'ad9tttttttttt54419361eeeb775d8a12f3975a3722953fd8e326dd108d5645',
-            salt: '1c99de412b219ttttf4665293211adce',
+              'ad9tttttttttt54456361eeeb775d8a12f3975a3722953fd8e326dd108d5645',
+            salt: '1c99de412b219tt56f4665293211adce',
             resetToken: null,
             resetTokenExpiresAt: null,
             roles: 'admin',
@@ -25,12 +25,12 @@ export const standard = defineScenario({
         body: 'String',
         user: {
           create: {
-            id: 100,
-            name: 'Karenrofl',
-            email: 'lmao@k12.edu',
+            id: 7878,
+            name: 'Kggggl',
+            email: 'lmo@k12.edu',
             hashedPassword:
-              'ad9xxx042fe9f154419361eeeb775d8a12f3975a3722953fd8e326dd108d5645',
-            salt: '1c99de412b219e9abf4665xx3211adce',
+              'ad9tttttttttt54456361errb775d8a12f3975a3722953fd8e326dd108d5645',
+            salt: '1c99de412b219e9abf4555xx3211adce',
             resetToken: null,
             resetTokenExpiresAt: null,
             roles: 'admin',
